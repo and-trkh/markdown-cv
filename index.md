@@ -1,16 +1,20 @@
 ---
 layout: cv
-title: Andrey Terekhov's CV
+title: Резюме Андрея Терехова
 ---
 
-# Andrey Terekhov
+# Андрей Терехов
 
-Front-end developer
+### Frontend Developer (Middle)
 
 <div id="webaddress">
   <a href="mailto:at1349@protonmail.com">
     <i class="fa-solid fa-envelope"></i>
     at1349@protonmail.com
+  </a>
+  | <a href="tel:+79934878893">
+    <i class="fa-solid fa-phone"></i>
+    +7 (993) 487-88-93
   </a>
   | <a href="https://t.me/global_trouble">
     <i class="fa-brands fa-telegram"></i>
@@ -20,21 +24,72 @@ Front-end developer
     <i class="fa-brands fa-github"></i>
     https://github.com/trouble-andrew
   </a>
+  | <a href="https://www.linkedin.com/in/andrey-terekhov-b1b1b1b1/">
+    <i class="fa-brands fa-linkedin"></i>
+    LinkedIn
+  </a>
 </div>
 
-## Skills
+## ПРОФЕССИОНАЛЬНОЕ РЕЗЮМЕ
 
-HTML - CSS - Javascript - PUG - SCSS - Bootstrap - Tailwind - Webpack - Parcel - Vite - Git - BEM - React - Redux - Typescript
+Frontend Developer с 5+ годами опыта разработки адаптивных веб-приложений и корпоративных решений. Специализируюсь на React, Next.js, TypeScript и современных анимационных библиотеках. Опыт работы с проектами в сфере недвижимости, ресторанного бизнеса и digital-агентств.
 
-## Experience
+## ТЕХНИЧЕСКИЕ НАВЫКИ
 
-`11.2019-01.2022`
-**Front-end developer**, [_Liga A_](https://ligaa.agency/), Saint Petersburg, Russia.
+**Frontend:** React, Next.js, TypeScript, JavaScript (ES6+), Redux, Zustand
+**Верстка:** HTML5, CSS3, SCSS, PUG, BEM, адаптивная/кроссбраузерная верстка
+**Анимации:** GSAP, Framer Motion, Locomotive Scroll, CSS Animations
+**JavaScript продвинутый:** DOM-манипуляции, Async/Await, Promise, Fetch API, Regex, ООП
+**Инструменты:** Webpack, Vite, Git, Figma, REST API, GraphQL
+**Архитектура:** Jamstack, статические генераторы, компонентный подход
+
+## ОПЫТ РАБОТЫ
+
+### **Frontend-разработчик | Keep Calm** _(02.2023 - 02.2025)_
+
+**Реализованные проекты:**
+
+- **FORMA.ru** - корпоративный сайт девелоперской компании премиум-класса с интерактивными элементами и адаптивным дизайном
+- **PORTA.forma.ru** - лендинг бизнес-центра с 3D-презентацией и интегрированными формами заявок
+- **Rest.keep-calm.ru/delivery** - CRM-платформа управления доставкой с real-time обновлениями статусов заказов
+- **Keep-Calm.ru/forma** - интеграционная платформа для управления партнерскими проектами
+
+**Технические достижения:**
+
+- Разработал адаптивные интерфейсы для высоконагруженных B2B и B2C платформ
+- Реализовал сложные анимации и интерактивные элементы с GSAP и Framer Motion
+- Обеспечил интеграцию между CRM-системами и партнерскими API
+- Применял современные подходы к архитектуре (Next.js, TypeScript, компонентный дизайн)
+
+### **Frontend-разработчик | Лига А** _(10.2019 - 12.2022)_
+
+**О компании:** Лига А — агентство по превращению дизайна в код для digital-агентств и дизайн-студий.
+
+**Ключевые достижения:**
+
+- Разработал 15+ адаптивных лендингов и корпоративных сайтов для клиентов агентства
+- Создал переиспользуемую библиотеку UI-компонентов, сократив время разработки проектов в 2 раза
+- Реализовал pixel-perfect верстку из PSD/Figma макетов с кроссбраузерной совместимостью (включая IE11+)
+- Внедрил современный workflow: Git, Webpack, SCSS, БЭМ-методология
+
+**Клиентский опыт:**
+
+- Работал с проектами для digital-агентств и дизайн-студий различных отраслей
+- Участвовал в презентациях технических решений заказчикам
+- Консультировал по техническим возможностям реализации дизайн-концепций
+- Обеспечивал соблюдение жестких дедлайнов при работе с несколькими проектами одновременно
+
+## ЛИЧНЫЕ КАЧЕСТВА
+
+- **Проактивность:** Самостоятельно выявляю технические проблемы и предлагаю решения
+- **Командная работа:** Опыт координации с backend-разработчиками, дизайнерами и QA-инженерами
+- **Техническое лидерство:** Код-ревью, наставничество, архитектурное планирование
+- **Адаптивность:** Быстрое освоение новых технологий и методологий
 
 ## Courses
 
-`03.2022-present`
-**JS/FE 2022 (JAVASCRIPT)**
+`03.2022-09.2022`
+[**JS/FE 2022 (JAVASCRIPT)**](https://app.rs.school/certificate/mo05rfew)
 
 `10.2021-03.2022`
 [**JS/FE PRE-SCHOOL 2022 (JAVASCRIPT)**](https://app.rs.school/certificate/xiz66yif)
@@ -65,24 +120,8 @@ HTML - CSS - Javascript - PUG - SCSS - Bootstrap - Tailwind - Webpack - Parcel -
 `2006-2011`
 **Communication Technologies and Communication Systems**, _Collage of Telecommunications and Information science_, Novosibirsk, Russia.
 
-## Portfolio
-
-[Smart Devices](https://astounding-arithmetic-764b70.netlify.app/)
-
-[GJK Bank](https://effortless-lollipop-274da7.netlify.app)
-
-[Cozy House Shelter](https://effulgent-sundae-d1a4c3.netlify.app)
-
-[Photographer portfolio](https://infallible-hamilton-d7f979.netlify.app/)
-
-## Languages
+## Языки
 
 Native: Russian
 
 Basic: English (B1)
-
-<!-- ## Personal
-
-Birth date: 17 July 1991
-
-<br/>Last updated: May 2022<br/><br/> -->
