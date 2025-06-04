@@ -131,13 +131,12 @@ Frontend разработчик с 5+ годами опыта разработк
 ## Education
 
 `2012-2016`
-**Infocommunication Technologies & Communication Systems**, _Far Eastern State Transport University_, Khabarovsk, Russia.
+**Инфокоммуникационные технологии и системы связи**, _Дальневосточный государственный университет путей сообщения (ДВГУПС)_, г. Хабаровск, Россия.
 
 `2006-2011`
-**Communication Technologies and Communication Systems**, _Collage of Telecommunications and Information science_, Novosibirsk, Russia.
+**Инфокоммуникационные сети и системы связи**, _Колледж телекоммуникаций и информатики федерального государственного бюджетного образовательного учреждения высшего образования «Сибирский государственный университет телекоммуникаций и информатики_, г. Новосибирск, Россия.
 
 ## Языки
 
 Native: Russian
-
-Basic: English (B1)
+Basic: English (B2)
