@@ -30,12 +30,12 @@ Frontend разработчик с 5+ годами опыта разработк
 
 ## Стек
 
-**Frontend:** React, Next.js (SSR/SSG), TypeScript, JavaScript (ES6+), Redux, Tanstack Query, Zustand, MobX
-**Верстка:** HTML5, CSS3, SCSS, PUG, BEM, Material UI, адаптивная/кроссбраузерная верстка
-**Анимации:** GSAP, Framer Motion, Locomotive Scroll, CSS Animations
-**Инструменты:** webpack, Vite, Parcel, Git, Figma, REST API, GraphQL, Jest, React Testing Library
-**Оптимизация:** Code splitting, lazy loading, кеширование, Lighthouse, Bundle Analyzer, Core Web Vitals
-**Архитектура:** Jamstack, статические генераторы, компонентный подход
+- **Frontend:** React, Next.js (SSR/SSG), TypeScript, JavaScript (ES6+), Redux, Tanstack Query, Zustand
+- **Верстка:** HTML5, CSS3, SCSS, PUG, BEM, Material UI, адаптивная/кроссбраузерная верстка
+- **Анимации:** GSAP, Framer Motion, Locomotive Scroll, CSS Animations
+- **Инструменты:** webpack, Vite, Parcel, Git, Figma, REST API, GraphQL, Jest, React Testing Library
+- **Оптимизация:** Code splitting, lazy loading, кеширование, Lighthouse, Bundle Analyzer, Core Web Vitals
+- **Архитектура:** Jamstack, статические генераторы, компонентный подход
 
 ## AI разработка
 
@@ -49,7 +49,7 @@ Frontend разработчик с 5+ годами опыта разработк
 
 ### **Frontend-разработчик | [Keep Calm](https://keep-calm.ru/)** _(02.2023 - 02.2025)_
 
-**О компании:** Keep Calm — digital-агентство, специализирующееся на комплексном интернет-маркетинге и разработке для малого, среднего и крупного бизнесов.
+**О компании:** Digital-агентство, специализирующееся на комплексном интернет-маркетинге и разработке для малого, среднего и крупного бизнесов.
 
 **Реализованные проекты:**
 
@@ -63,13 +63,13 @@ Frontend разработчик с 5+ годами опыта разработк
 - Настроил SSR/SSG в Next.js, улучшив SEO-позиции и скорость загрузки на 40%
 - Реализовал code splitting и lazy loading, сократив initial bundle на 60%
 - Внедрил кеширование стратегии и достиг показателя 95+ в Lighthouse
-- Работал с MobX для управления состоянием в высоконагруженных CRM-системах
+- Работал с Tanstack Query для управления состоянием в CRM-системах
 - Применял современные подходы к архитектуре (TypeScript, FSD, компонентный дизайн)
 - Внедрил AI-инструменты для ускорения разработки и повышения качества кода
 
 ### **Frontend-разработчик | [Лига А](https://ligaa.agency/)** _(10.2019 - 12.2022)_
 
-**О компании:** Лига А — агентство по превращению дизайна в код для digital-агентств и дизайн-студий.
+**О компании:** Агентство по превращению дизайна в код для digital-агентств и дизайн-студий.
 
 **Ключевые достижения:**
 
@@ -95,9 +95,9 @@ Frontend разработчик с 5+ годами опыта разработк
 
 **Курсы:**
 
-- `03.2022-09.2022` [**RS School JS/FE 2022**](https://app.rs.school/certificate/mo05rfew)
-- `05.2021-05.2022` [**freeCodeCamp - JavaScript Algorithms and Data Structures**](https://www.freecodecamp.org/certification/trouble-andrew/javascript-algorithms-and-data-structures)
-- `2018-2020` **HTML Academy** - [HTML/CSS/JavaScript](https://assets.htmlacademy.ru/certificates/intensive/91/117192.pdf?1542209056), [React](https://assets.htmlacademy.ru/certificates/intensive/139/117192.pdf?1585689611)
+- `03.2021-09.2021` [**RS School JS/FE 2021**](https://app.rs.school/certificate/mo05rfew)
+- `05.2020-05.2021` [**freeCodeCamp - JavaScript Algorithms and Data Structures**](https://www.freecodecamp.org/certification/trouble-andrew/javascript-algorithms-and-data-structures)
+- `2017-2019` **HTML Academy** - [HTML/CSS/JavaScript](https://assets.htmlacademy.ru/certificates/intensive/91/117192.pdf?1542209056), [React](https://assets.htmlacademy.ru/certificates/intensive/139/117192.pdf?1585689611)
 
 ## Языки
 
